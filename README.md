@@ -27,3 +27,5 @@ Here 1 is input as the device # to use. If on your machine, the ID of the GPU is
 ## Organization of the repo
 
 The source code for the mutual-information algorithm is kept in 'sources', 'headers' and 'modules'
+
+Thanks to Seth Price @ Planet Labs for advice and inspiration for this project 
